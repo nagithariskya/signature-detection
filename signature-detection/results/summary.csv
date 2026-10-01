@@ -1,0 +1,4 @@
+method,TP,FN,TN,FP,accuracy
+global,7,2,45,0,0.963
+otsu,9,0,45,0,1.0
+adaptive,9,0,45,0,1.0
